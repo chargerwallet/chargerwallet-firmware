@@ -1,0 +1,8 @@
+[book]
+title = "Chargerwallet Firmware"
+description = "Documentation of Chargerwallet Firmware."
+src = "."
+
+[build]
+build-dir = "mdbook"
+create-missing = false
